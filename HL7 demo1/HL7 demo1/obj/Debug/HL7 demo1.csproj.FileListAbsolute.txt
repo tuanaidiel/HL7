@@ -1,0 +1,34 @@
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\obj\Debug\HL7 demo1.csproj.AssemblyReference.cache
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\obj\Debug\HL7 demo1.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\HL7 demo1.exe.config
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\HL7 demo1.exe
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\HL7 demo1.pdb
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Base.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V21.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V22.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V23.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V231.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V24.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V25.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V251.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V26.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V27.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V271.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V28.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V281.dll
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Base.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V21.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V22.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V23.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V231.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V24.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V25.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V251.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V26.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V27.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V271.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V28.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\bin\Debug\NHapi.Model.V281.xml
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\obj\Debug\HL7 demo1.csproj.Up2Date
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\obj\Debug\HL7 demo1.exe
+C:\Users\tuana\Documents\IT\.NET\HL7 Integration\HL7 demo1\HL7 demo1\obj\Debug\HL7 demo1.pdb
