@@ -1,0 +1,14 @@
+C:\Aidiel\HL7Integration2\HL7Integration2\bin\Debug\net9.0\HL7Integration2.exe
+C:\Aidiel\HL7Integration2\HL7Integration2\bin\Debug\net9.0\HL7Integration2.deps.json
+C:\Aidiel\HL7Integration2\HL7Integration2\bin\Debug\net9.0\HL7Integration2.runtimeconfig.json
+C:\Aidiel\HL7Integration2\HL7Integration2\bin\Debug\net9.0\HL7Integration2.dll
+C:\Aidiel\HL7Integration2\HL7Integration2\bin\Debug\net9.0\HL7Integration2.pdb
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.AssemblyInfoInputs.cache
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.AssemblyInfo.cs
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.csproj.CoreCompileInputs.cache
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.dll
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\refint\HL7Integration2.dll
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.pdb
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\HL7Integration2.genruntimeconfig.cache
+C:\Aidiel\HL7Integration2\HL7Integration2\obj\Debug\net9.0\ref\HL7Integration2.dll
