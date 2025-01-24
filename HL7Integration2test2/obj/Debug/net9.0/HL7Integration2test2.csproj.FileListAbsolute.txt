@@ -1,0 +1,14 @@
+C:\Aidiel\demo\HL7Integration2test2\bin\Debug\net9.0\HL7Integration2test2.exe
+C:\Aidiel\demo\HL7Integration2test2\bin\Debug\net9.0\HL7Integration2test2.deps.json
+C:\Aidiel\demo\HL7Integration2test2\bin\Debug\net9.0\HL7Integration2test2.runtimeconfig.json
+C:\Aidiel\demo\HL7Integration2test2\bin\Debug\net9.0\HL7Integration2test2.dll
+C:\Aidiel\demo\HL7Integration2test2\bin\Debug\net9.0\HL7Integration2test2.pdb
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.AssemblyInfoInputs.cache
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.AssemblyInfo.cs
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.csproj.CoreCompileInputs.cache
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.dll
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\refint\HL7Integration2test2.dll
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.pdb
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\HL7Integration2test2.genruntimeconfig.cache
+C:\Aidiel\demo\HL7Integration2test2\obj\Debug\net9.0\ref\HL7Integration2test2.dll
