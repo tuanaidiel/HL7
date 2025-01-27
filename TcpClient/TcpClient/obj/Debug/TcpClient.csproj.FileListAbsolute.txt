@@ -1,0 +1,7 @@
+C:\Aidiel\demo\TcpClient\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Aidiel\demo\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+C:\Aidiel\demo\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+C:\Aidiel\demo\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+C:\Aidiel\demo\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Aidiel\demo\TcpClient\TcpClient\obj\Debug\TcpClient.exe
+C:\Aidiel\demo\TcpClient\TcpClient\obj\Debug\TcpClient.pdb
