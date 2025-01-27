@@ -1,0 +1,7 @@
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\bin\Debug\HL7_27_1.exe.config
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\bin\Debug\HL7_27_1.exe
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\bin\Debug\HL7_27_1.pdb
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\obj\Debug\HL7_27_1.csproj.AssemblyReference.cache
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\obj\Debug\HL7_27_1.csproj.CoreCompileInputs.cache
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\obj\Debug\HL7_27_1.exe
+C:\Aidiel\demo\HL7_27_1\HL7_27_1\obj\Debug\HL7_27_1.pdb
