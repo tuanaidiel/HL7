@@ -1,0 +1,7 @@
+C:\Aidiel\demo\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Aidiel\demo\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Aidiel\demo\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Aidiel\demo\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.AssemblyReference.cache
+C:\Aidiel\demo\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Aidiel\demo\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Aidiel\demo\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
