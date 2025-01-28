@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HL7Integration2test3/1.0.0": {
+        "runtime": {
+          "HL7Integration2test3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HL7Integration2test3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
